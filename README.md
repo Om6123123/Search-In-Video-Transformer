@@ -1,2 +1,8 @@
 # Search-In-Video-Transformer
-Using the concept of Transformers, this model searches a video for a timestamp where a specific word was used.
+
+This project integrates advanced speech recognition with video processing to extract timestamps of specific words in a video. Using Facebook AI's Wav2Vec2 model, it accurately identifies spoken words in English, including British and American accents, and pinpoints the exact moments they occur. 
+
+## Authors
+- Om Raul Deepak  - IIT Madras(Main contributor)
+- Rudra Panch - IIT Madras
+- Rachit Kumar - IIT Madras
